@@ -6,14 +6,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Navigate to `cd/backend` and run `npm install`, after navigate to `cd ..` and run `npm install`.
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
+## Start API
 
 Run `cd/backend` and run npm start to start the api
 
+## Development server
 
-
-
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
